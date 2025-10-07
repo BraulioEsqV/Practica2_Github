@@ -1,7 +1,7 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
-Nombre: Braulio Esquivel Vasco
-Matrícula: 2233031182
+Nombre: Braulio EV
+Matrícula: 2233031182___
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
